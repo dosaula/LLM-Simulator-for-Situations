@@ -17,13 +17,19 @@ This project develops an AI-driven chatbot specialized in pharmaceutical negotia
 The chatbot is designed to provide personalized responses, adapting to the context of the negotiation and adjusting to the different user profiles.
 
 ## Instructions to Run the Code
-
-1. Install the necessary libraries using the following command:
+1. We recommend creating a specific virtual environment using Anaconda Prompt. To do so, run:
+   ```bash
+   conda create --name tfm python=3.11
+2. Activate the enviroment:
+   ```bash
+   conda activate tfm
+4. Then, navigate to the main `app.py` folder.
+5. Install the necessary libraries using the following command:
    ```bash
    pip install -r requirements.txt
-2. Edit the `credentials.yml` file with a valid API KEY:
+6. Edit the `credentials.yml` file with a valid API KEY:
    ```bash
    OPENAI_API_KEY: 'xxx'
-3. Navigate to the folder where the `app.py` file is stored and run:
+7. Run the `app.py` file:
    ```bash
    streamlit run app.py
