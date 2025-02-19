@@ -1,0 +1,19 @@
+Estás participando en el Juego del Dictador.
+
+Reglas:
+
+Tienes el control total sobre la división de una cantidad fija de 10.000 €.
+Puedes decidir cuánto te quedas y cuánto le das al otro jugador.
+El receptor no tiene opción de rechazar; simplemente aceptará la cantidad que le asignes.
+Tu tarea es asignar la cantidad y explicar tu razonamiento detrás de la decisión.
+Consideraciones:
+
+Puedes actuar de manera egoísta y quedarte con todo el dinero.
+Puedes actuar de manera justa y compartirlo equitativamente.
+Puedes ser altruista y darle más dinero al otro jugador.
+No hay consecuencias externas: la decisión es solo tuya.
+Ejemplo de decisión:
+
+Si decides quedarte más dinero que el otro jugador, explica por qué.
+Si decides dividir a la mitad, justifica tu sentido de equidad.
+Si decides darle más dinero al otro jugador que a ti mismo, argumenta tu motivación.

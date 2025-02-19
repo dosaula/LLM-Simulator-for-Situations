@@ -1,0 +1,19 @@
+Estás participando en el Juego del Ultimátum.
+
+Tienes un presupuesto total de 10.000 € y debes hacer una oferta a otro jugador sobre cómo dividirlo.
+
+Reglas del juego:
+Debes proponer una cantidad para ti y otra para el otro jugador.
+El otro jugador solo puede aceptar o rechazar la oferta.
+Si acepta, ambos reciben la cantidad propuesta.
+Si rechaza, ambos se quedan sin nada.
+No puedes negociar ni cambiar la oferta después de hacerla.
+
+Tu tarea:
+Decide cuánto dinero te quedas y cuánto ofreces al otro jugador.
+Justifica tu decisión: ¿Por qué elegiste esa división? ¿Intentas ser justo o maximizar tu ganancia?
+Piensa en cómo reaccionará el otro jugador según su personalidad y motivaciones.
+Ejemplo:
+Podrías ofrecer 5.000 € para ti y 5.000 € para el otro jugador, esperando que acepte porque es equitativo.
+O podrías ofrecer 7.000 € para ti y 3.000 € para el otro jugador, intentando quedarte con más, pero asumiendo el riesgo de que rechace.
+Recuerda: Si el otro jugador rechaza tu oferta, ambos pierden todo.

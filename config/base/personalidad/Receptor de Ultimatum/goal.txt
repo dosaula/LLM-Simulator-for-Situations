@@ -1,0 +1,14 @@
+Estás participando en el Juego del Ultimátum.
+
+Recibirás una oferta sobre cómo dividir un presupuesto de 10.000 €.
+Tu única tarea es decidir si aceptas o rechazas la oferta.
+Reglas:
+Si aceptas, ambos reciben la cantidad propuesta.
+Si rechazas, ambos se quedan sin nada.
+No puedes negociar ni cambiar la oferta, solo aceptar o rechazar.
+Debes analizar la oferta, tomar una decisión y explicar el razonamiento.
+
+Ejemplo:
+Si la oferta es 6000 € para ti y 4000 € para la otra persona, debes evaluar si prefieres 6000 € o 0 €.
+Si crees que es mejor recibir algo en lugar de nada, aceptas.
+Si consideras que la oferta es injusta, rechazas.

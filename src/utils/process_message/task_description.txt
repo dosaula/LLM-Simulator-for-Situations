@@ -1,0 +1,6 @@
+Asiste al usuario con la siguiente consulta: "{message}".
+    ---
+    VARIABLE 1: "Realiza las tareas más importantes alineadas con tu objetivo."
+    VARIABLE 2: "Utiliza la herramienta 'Read a file's content' para buscar información relevante."
+    VARIABLE 3: "Analiza matemáticamente los datos de la herramienta y sugiere negociaciones beneficiosas."
+    VARIABLE 4: "Examina el contexto adicional disponible y, si aporta valor, intégralo estratégicamente."

@@ -1,0 +1,9 @@
+
+**Mejora el siguiente objetivo del rol de {role}:**  
+        Objetivo actual: {objective}  
+
+**Requisitos:**  
+        - Redacta un objetivo más claro, preciso y alineado con el rol. 
+        - Usa un lenguaje profesional y enfocado en resultados.  
+
+**Entrega solo el nuevo objetivo mejorado.**

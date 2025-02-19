@@ -1,0 +1,169 @@
+/* Personalización del fondo */
+body {
+    background-color: #f4f7fc; /* Color de fondo suave */
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Contenedor para centrar el logo */
+.logo-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 150px; /* Altura del espacio donde el logo se centrará */
+    margin: 0 auto; /* Asegura que esté en el centro de la pantalla */
+}
+
+/* Estilo del logo */
+.header-img {
+    width: 300px; /* Ajusta el tamaño del logo */
+    height: auto; /* Mantén la relación de aspecto */
+}
+
+/* Espacio entre header y body */
+.header-space {
+    padding-top: 0px; /* Ajusta el tamaño según la altura de tu imagen */
+}
+
+
+/* Estilo de título principal */
+h1 {
+    font-size: 2rem;
+    color: #1c58b5; /* Azul para el título */
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Estilo de subtítulos */
+h2, h3 {
+    color: #1c58b5;
+    font-weight: 500;
+}
+
+/* Estilo de las cajas de texto */
+.stTextInput input {
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    color:#1c58b5;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.stTextInput input:focus {
+    border-color: #1c58b5 !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Estilo de los botones */
+.stButton button {
+    background-color: #1c58b5; /* Azul */
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.stButton button:hover {
+    background-color: #1c58b5;
+}
+
+.stButton button:active {
+    background-color: #1c58b5;
+}
+
+/* Estilo de los selectores */
+.stSelectbox select {
+    padding: 12px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 100%;
+}
+
+/* Estilo de las áreas de texto */
+.stTextArea textarea {
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.stTextArea textarea:focus {
+    border-color: #1c58b5;
+}
+
+/* Estilo de las alertas de error */
+.stError {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #f5c6cb;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+/* Estilo de las alertas de éxito */
+.stSuccess {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #c3e6cb;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+/* Estilo de las cajas de chat */
+.stWrite, .stMessage {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Mensajes del usuario */
+.stWrite .user-message {
+    background-color: #1c58b5;
+    color: white;
+    text-align: left;
+}
+
+/* Mensajes del asistente */
+.stMessage .assistant-message {
+    background-color: #f1f1f1;
+    color: #333;
+    text-align: right;
+}
+
+/* Estilo para el selector de idioma */
+.stSelectbox.st-selectbox {
+    width: 300px;
+    margin: 0 auto 20px;
+}
+
+/* Estilo para el contenido de la simulación */
+.simulation-message {
+    background-color: #f9f9f9;
+    border-left: 5px solid #1c58b5;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.simulation-title {
+    font-size: 1.5rem;
+    color: #1c58b5;
+    margin-bottom: 15px;
+}

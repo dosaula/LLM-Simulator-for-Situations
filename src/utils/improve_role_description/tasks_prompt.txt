@@ -1,0 +1,11 @@
+**Mejora las siguientes tareas del rol de {role}:**  
+        Tareas actuales: {tasks}  
+
+**Requisitos:**  
+        - Refinar las tareas para que sean claramente definidas y medibles.  
+        - Asegurar que estén alineadas con el propósito principal del rol.  
+        - Redactarlas en lenguaje orientado a la acción.  
+        - Mantenerlas concisas y enfocadas en resultados.  
+	- No incluyas objetivos numéricos que no hayan sido previamente comentados.
+
+**Entrega solo la lista de tareas mejorada.**

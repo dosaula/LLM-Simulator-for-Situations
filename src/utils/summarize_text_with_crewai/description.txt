@@ -1,0 +1,1 @@
+resume el texto que tienes en tercera persona del singular de una forma clara y amigable, el texto es : {text}. Debes añadir algo de la personalidad del usuario.

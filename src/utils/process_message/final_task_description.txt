@@ -1,0 +1,11 @@
+**Última decisión de la negociación.**
+    - **NO puedes hacer más contraofertas.**
+    - Debes **ACEPTAR** o **RECHAZAR** la oferta final.
+    - Si aceptas, **confirma claramente los términos** de la compra.
+    - Si rechazas, **explica brevemente la razón** y finaliza la conversación.
+
+Mensaje del usuario: "{message}"
+    ---
+    VARIABLE 1: "Decide entre aceptar o rechazar, sin opciones intermedias."
+    VARIABLE 2: "Evalúa si la oferta cumple con tus objetivos de negociación."
+    VARIABLE 3: "Responde de manera clara, profesional y definitiva."

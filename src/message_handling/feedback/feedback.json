@@ -1,0 +1,682 @@
+[
+    {
+        "conversation_id": "a1b2c3d4-e5f6-4a5b-9c8d-1a2b3c4d5e6f",
+        "timestamp": "2024-12-01 08:30:15",
+        "rating": 5,
+        "comments": "Excelente herramienta, ha mejorado significativamente mi productividad",
+        "username": "Nicolas Spector",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 3456.789012345678,
+        "interaction_count": 45,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "b2c3d4e5-f6g7-5b6c-0d9e-2b3c4d5e6f7g",
+        "timestamp": "2024-12-02 09:45:22",
+        "rating": 4,
+        "comments": "Muy buena aplicación, intuitiva y fácil de usar",
+        "username": "Alex Blanco",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 2345.678901234567,
+        "interaction_count": 32,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Safari"
+        }
+    },
+    {
+        "conversation_id": "c3d4e5f6-g7h8-6c7d-1e0f-3c4d5e6f7g8h",
+        "timestamp": "2024-12-03 10:15:33",
+        "rating": 2,
+        "comments": "La interfaz podría ser más intuitiva, pero cumple su función",
+        "username": "Guest",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 1234.567890123456,
+        "interaction_count": 15,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Linux",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "conversation_id": "d4e5f6g7-h8i9-7d8e-2f1g-4d5e6f7g8h9i",
+        "timestamp": "2024-12-04 11:30:45",
+        "rating": 5,
+        "comments": "Increíble herramienta para la gestión diaria",
+        "username": "Amy Ramirez",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Empathetic & Intuitive",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Adaptability & Innovation"
+        },
+        "session_duration": 4567.890123456789,
+        "interaction_count": 78,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Edge"
+        }
+    },
+    {
+        "conversation_id": "e5f6g7h8-i9j0-8e9f-3g2h-5e6f7g8h9i0j",
+        "timestamp": "2024-12-05 12:45:55",
+        "rating": 4,
+        "comments": "Funciona muy bien para mis necesidades diarias",
+        "username": "David German Cortes",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 3678.90123456789,
+        "interaction_count": 56,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "f6g7h8i9-j0k1-9f0g-4h3i-6f7g8h9i0j1k",
+        "timestamp": "2024-12-06 13:15:12",
+        "rating": 5,
+        "comments": "Excelente para el manejo de documentación",
+        "username": "Bruno Dosaula",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 2789.012345678901,
+        "interaction_count": 43,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "conversation_id": "g7h8i9j0-k1l2-0g1h-5i4j-7g8h9i0j1k2l",
+        "timestamp": "2024-12-07 14:30:25",
+        "rating": 3,
+        "comments": "Funcional pero podría mejorar en algunos aspectos",
+        "username": "Guest",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 1890.123456789012,
+        "interaction_count": 21,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Linux",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "h8i9j0k1-l2m3-1h2i-6j5k-8h9i0j1k2l3m",
+        "timestamp": "2024-12-08 15:45:38",
+        "rating": 5,
+        "comments": "Una herramienta verdaderamente útil y eficiente",
+        "username": "Nicolas Spector",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Adaptability & Innovation"
+        },
+        "session_duration": 4901.234567890123,
+        "interaction_count": 67,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "i9j0k1l2-m3n4-2i3j-7k6l-9i0j1k2l3m4n",
+        "timestamp": "2024-12-09 16:15:42",
+        "rating": 4,
+        "comments": "Muy satisfecho con la funcionalidad general",
+        "username": "Alex Blanco",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Empathetic & Intuitive",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 3012.345678901234,
+        "interaction_count": 34,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Safari"
+        }
+    },
+    {
+        "conversation_id": "j0k1l2m3-n4o5-3j4k-8l7m-0j1k2l3m4n5o",
+        "timestamp": "2024-12-10 17:30:55",
+        "rating": 5,
+        "comments": "Perfecta para mi trabajo diario",
+        "username": "Amy Ramirez",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 5123.456789012345,
+        "interaction_count": 89,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Edge"
+        }
+    },
+    {
+        "conversation_id": "k1l2m3n4-o5p6-4k5l-9m8n-1k2l3m4n5o6p",
+        "timestamp": "2024-12-11 18:45:18",
+        "rating": 1,
+        "comments": "La velocidad de respuesta podría mejorar significativamente",
+        "username": "Guest",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 1234.567890123456,
+        "interaction_count": 12,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Linux",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "conversation_id": "l2m3n4o5-p6q7-5l6m-0n9o-2l3m4n5o6p7q",
+        "timestamp": "2024-12-12 19:15:22",
+        "rating": 4,
+        "comments": "Buena herramienta, cumple con las expectativas",
+        "username": "David German Cortes",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 3345.678901234567,
+        "interaction_count": 45,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "m3n4o5p6-q7r8-6m7n-1o0p-3m4n5o6p7q8r",
+        "timestamp": "2024-12-13 20:30:35",
+        "rating": 5,
+        "comments": "Excelente plataforma, muy completa",
+        "username": "Bruno Dosaula",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 4456.789012345678,
+        "interaction_count": 67,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "conversation_id": "n4o5p6q7-r8s9-7n8o-2p1q-4n5o6p7q8r9s",
+        "timestamp": "2024-12-14 21:45:48",
+        "rating": 4,
+        "comments": "Muy útil para la gestión diaria",
+        "username": "Nicolas Spector",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Empathetic & Intuitive",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Adaptability & Innovation"
+        },
+        "session_duration": 2567.890123456789,
+        "interaction_count": 34,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Safari"
+        }
+    },
+    {
+        "conversation_id": "o5p6q7r8-s9t0-8o9p-3q2r-5o6p7q8r9s0t",
+        "timestamp": "2024-12-15 22:15:52",
+        "rating": 5,
+        "comments": "Fantástica herramienta, supera las expectativas",
+        "username": "Alex Blanco",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 5678.90123456789,
+        "interaction_count": 78,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Edge"
+        }
+    },
+    {
+        "conversation_id": "p6q7r8s9-t0u1-9p0q-4r3s-6p7q8r9s0t1u",
+        "timestamp": "2024-12-16 23:30:15",
+        "rating": 3,
+        "comments": "Cumple con lo básico, podría mejorar",
+        "username": "Guest",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 1789.012345678901,
+        "interaction_count": 23,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Linux",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "q7r8s9t0-u1v2-0q1r-5s4t-7q8r9s0t1u2v",
+        "timestamp": "2024-12-17 08:45:28",
+        "rating": 5,
+        "comments": "Excelente para la gestión de datos",
+        "username": "Amy Ramirez",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 4890.123456789012,
+        "interaction_count": 56,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "x1c6e93f-d5cd-0gh7-bc25-349601f22f5f",
+        "timestamp": "2025-01-18 13:22:15",
+        "rating": 5,
+        "comments": "La mejor herramienta que he usado para gestión de datos",
+        "username": "David German Cortes",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Adaptability & Innovation"
+        },
+        "session_duration": 3456.789012345679,
+        "interaction_count": 92,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Edge"
+        }
+    },
+    {
+        "conversation_id": "z3e8g15h-f7ef-2ij9-de47-561823h44h7h",
+        "timestamp": "2024-12-25 09:15:33",
+        "rating": 4,
+        "comments": "Interfaz muy intuitiva y fácil de usar",
+        "username": "Bruno Dosaula",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Empathetic & Intuitive",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 2345.678901234568,
+        "interaction_count": 45,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Safari"
+        }
+    },
+    {
+        "conversation_id": "b7d2h82i-g2hg-7eh1-ef14-128489h11h3h",
+        "timestamp": "2024-12-15 08:32:45",
+        "rating": 5,
+        "comments": "La aplicación es increíblemente intuitiva y eficiente. ¡Un placer usarla!",
+        "username": "Alex Blanco",
+        "role": "Farmaceutico amistoso",
+        "comb": {
+            "Capacity": "Fast & Efficient",
+            "Opportunity": "Open & Experimental",
+            "Motivation": "Outcome-Oriented"
+        },
+        "session_duration": 1523.8698062896729,
+        "interaction_count": 45,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Chrome"
+        }
+    },
+    {
+        "conversation_id": "c8e3i93j-h3ih-8fi2-fg25-239590i22i4i",
+        "timestamp": "2025-01-20 14:45:22",
+        "rating": 1,
+        "comments": "Tuve algunas dificultades con la velocidad de respuesta, espero mejore pronto",
+        "username": "Bruno Dosaula",
+        "role": "Juez de patentes",
+        "comb": {
+            "Capacity": "Logical & Analytical",
+            "Opportunity": "Risk-Averse",
+            "Motivation": "Fairness & Ethics"
+        },
+        "session_duration": 2845.9876543210985,
+        "interaction_count": 12,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "MacOS",
+            "browser": "Safari"
+        }
+    },
+    {
+        "conversation_id": "d9f4j04k-i4ji-9gj3-gh36-340601j33j5j",
+        "timestamp": "2025-02-05 11:15:33",
+        "rating": 4,
+        "comments": "Muy útil para mi trabajo diario",
+        "username": "David German Cortes",
+        "role": "Gerente de banco",
+        "comb": {
+            "Capacity": "Empathetic & Intuitive",
+            "Opportunity": "Collaborative & Dependent",
+            "Motivation": "Adaptability & Innovation"
+        },
+        "session_duration": 3567.1234567890124,
+        "interaction_count": 78,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Linux",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "conversation_id": "d4a24f3c-a92f-4bb7-ac06-ce7b4f2e6a00",
+        "timestamp": "2025-02-15 13:21:16",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.038424015045166,
+        "interaction_count": 2,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "6e4cf9e6-59f3-4004-bc00-f8ea34bbebb4",
+        "timestamp": "2025-02-15 13:30:09",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.061487913131714,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "3cba962e-1240-4f23-97c1-75cf8fbe83f6",
+        "timestamp": "2025-02-15 16:47:22",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.4113590717315674,
+        "interaction_count": 4,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "38cd3dd7-db86-4fe8-87ab-f21c7e03a684",
+        "timestamp": "2025-02-15 17:00:51",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.2371866703033447,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "96fe2e8b-681f-4370-8648-ce44071ff23f",
+        "timestamp": "2025-02-15 17:08:31",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.7771120071411133,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "9190f342-9b67-4166-8adb-1e5481be0588",
+        "timestamp": "2025-02-15 17:49:52",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.268097162246704,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "9190f342-9b67-4166-8adb-1e5481be0588",
+        "timestamp": "2025-02-15 17:51:04",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.4826009273529053,
+        "interaction_count": 1,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "71612352-ecf0-4557-9f0f-2619e8f525fe",
+        "timestamp": "2025-02-15 17:53:16",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.5941977500915527,
+        "interaction_count": 1,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "24054308-b903-43b8-8470-146ab11d270e",
+        "timestamp": "2025-02-15 17:58:06",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.1329846382141113,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "a9613fdb-c0bc-4744-82c5-daa6b8f8271e",
+        "timestamp": "2025-02-15 19:00:24",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "asistente",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.346140146255493,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "8412cbd7-f715-454e-b6f1-04620aad9d29",
+        "timestamp": "2025-02-16 12:37:43",
+        "rating": 5,
+        "comments": "Duro el agente!",
+        "username": "dosaula",
+        "role": "comercial",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 9.10022759437561,
+        "interaction_count": 3,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "0e7a2c5d-d4a4-4a04-bbd0-6d3a0cf61c66",
+        "timestamp": "2025-02-16 13:02:18",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "comercial",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.811460256576538,
+        "interaction_count": 3,
+        "documents_uploaded": false,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    }
+]

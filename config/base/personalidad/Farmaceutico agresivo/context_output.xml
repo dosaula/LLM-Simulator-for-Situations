@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dic from="es" to="xml_format">
+  <sheet name="Precios">
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Cantidad_Comprimidos>Paracetamol_Cantidad_Comprimidos = 20,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Paracetamol_Precio_Unitario_euros = 0.15,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Cantidad_Comprimidos>Ibuprofeno_Cantidad_Comprimidos = 20,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Ibuprofeno_Precio_Unitario_euros = 0.16,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Cantidad_Comprimidos>Amoxicilina_Cantidad_Comprimidos = 12,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Amoxicilina_Precio_Unitario_euros = 0.3333333333333333,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Cantidad_Comprimidos>Cefuroxima Axetil_Cantidad_Comprimidos = 15,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Cefuroxima Axetil_Precio_Unitario_euros = 0.42,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Cantidad_Comprimidos>Doxiciclina_Cantidad_Comprimidos = 28,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Doxiciclina_Precio_Unitario_euros = 0.17857142857142858,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Cantidad_Comprimidos>Azitromicina_Cantidad_Comprimidos = 3,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Azitromicina_Precio_Unitario_euros = 1.58,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Cantidad_Comprimidos>Claritromicina_Cantidad_Comprimidos = 3,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Claritromicina_Precio_Unitario_euros = 1.8333333333333333,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Cantidad_Comprimidos>Ambroxol_Cantidad_Comprimidos = 20,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Ambroxol_Precio_Unitario_euros = 0.145,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Cantidad_Comprimidos>Cetirizina_Cantidad_Comprimidos = 20,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Cetirizina_Precio_Unitario_euros = 0.21000000000000002,</Precio_Unitario_euros>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Cantidad_Comprimidos>Salbutamol_Cantidad_Comprimidos = 1,</Cantidad_Comprimidos>
+<Precio_Unitario_euros>Salbutamol_Precio_Unitario_euros = 6.7,</Precio_Unitario_euros>
+    </w>
+  </sheet>
+  <sheet name="Descuentos_empresas">
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = BRAUN-MELSUNGEN,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = STADA,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.07,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = FERRER,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = LEVEL,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = TAISHO,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = KERN PHARMA,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Paracetamol_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = VIATRIS,</Empresa>
+<Porcentaje_descuento>Ibuprofeno_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.07,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = ZAMBON GROUP,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = KERN PHARMA,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = MABO FARMA,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = STADA,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = RECKITT BENCKISER,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno _Medicamento = Ibuprofeno ,</Medicamento>
+<Empresa>Ibuprofeno _Empresa = LEVEL,</Empresa>
+<Porcentaje_descuento>Ibuprofeno _Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = AUROBINDO,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = TOWA PHARMA,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = REIG JOFRE,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.09,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = WALGREENS BOOTS AL,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = GSK,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = ZYDUS CADILA,</Empresa>
+<Porcentaje_descuento>Amoxicilina_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = SUN PHARMA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = GRUPO TECNIMEDE,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = AUROBINDO,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = STADA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = TOWA PHARMA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = KERN PHARMA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.07,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Cefuroxima Axetil_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = CANTABRIA,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = GALDERMA,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = PIERRE FABRE,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = INVICTA FARMA,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = TEOFARMA,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = SERRA PAMIES,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = PFIZER,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = COMMERCIAL SOLVENT,</Empresa>
+<Porcentaje_descuento>Doxiciclina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = AUROBINDO,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = KERN PHARMA,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.07,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = STADA,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = ETHYPHARM,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = VIATRIS,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = PFIZER,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Azitromicina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = AUROBINDO,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = ALTER,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = SUN PHARMA,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = KERN PHARMA,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = VIATRIS,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = GRUPO TECNIMEDE,</Empresa>
+<Porcentaje_descuento>Claritromicina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = ALDO UNION,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = SANOFI,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = APOTEX,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.07,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = MEDOCHEMIE,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = STADA,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = ARISTO PHARMA,</Empresa>
+<Porcentaje_descuento>Ambroxol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = MENARINI,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.06,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = CINFA,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = NORMON,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.0,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = VIATRIS,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = UCB,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.1,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = TEVA,</Empresa>
+<Porcentaje_descuento>Cetirizina_Porcentaje_descuento = 0.08,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Empresa>Salbutamol_Empresa = ALDO UNION,</Empresa>
+<Porcentaje_descuento>Salbutamol_Porcentaje_descuento = 0.05,</Porcentaje_descuento>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Empresa>Salbutamol_Empresa = GSK,</Empresa>
+<Porcentaje_descuento>Salbutamol_Porcentaje_descuento = 0.04,</Porcentaje_descuento>
+    </w>
+  </sheet>
+  <sheet name="HIstorico_ventas">
+    <w>
+<Mes>Ambroxol_Mes = 2024-01,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 377,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-01,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 723,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-01,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 511,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-01,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 251,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-01,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 513,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-01,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 313,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-01,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 513,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-01,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1447,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-01,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1102,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-01,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 447,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-02,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 541,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-02,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 660,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-02,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 300,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-02,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 492,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-02,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 421,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-02,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 379,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-02,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 366,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-02,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1356,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-02,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1570,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-02,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 407,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-03,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 396,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-03,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 578,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-03,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 331,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-03,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 215,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-03,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 311,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-03,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 346,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-03,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 332,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-03,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1056,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-03,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 881,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-03,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 311,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-04,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 200,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-04,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 566,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-04,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 340,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-04,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 371,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-04,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 280,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-04,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 281,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-04,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 348,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-04,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 828,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-04,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1071,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-04,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 284,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-05,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 414,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-05,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 559,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-05,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 410,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-05,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 347,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-05,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 231,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-05,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 298,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-05,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 271,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-05,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 909,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-05,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1124,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-05,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 289,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-06,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 268,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-06,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 475,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-06,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 251,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-06,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 180,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-06,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 235,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-06,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 181,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-06,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 324,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-06,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 808,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-06,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1042,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-06,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 295,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-07,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 201,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-07,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 480,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-07,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 185,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-07,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 158,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-07,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 229,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-07,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 204,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-07,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 219,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-07,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 693,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-07,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 880,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-07,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 190,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-08,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 231,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-08,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 489,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-08,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 198,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-08,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 227,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-08,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 326,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-08,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 301,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-08,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 180,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-08,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 978,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-08,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 818,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-08,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 216,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-09,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 286,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-09,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 451,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-09,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 250,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-09,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 332,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-09,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 195,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-09,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 317,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-09,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 328,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-09,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1094,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-09,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 810,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-09,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 251,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-10,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 248,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-10,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 552,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-10,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 333,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-10,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 364,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-10,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 184,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-10,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 291,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-10,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 192,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-10,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1029,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-10,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1077,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-10,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 264,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-11,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 378,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-11,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 531,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-11,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 322,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-11,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 336,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-11,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 268,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-11,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 295,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-11,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 230,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-11,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1181,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-11,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1083,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-11,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 230,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ambroxol_Mes = 2024-12,</Mes>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Ventas_Totales>Ambroxol_Ventas_Totales = 455,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Amoxicilina_Mes = 2024-12,</Mes>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Ventas_Totales>Amoxicilina_Ventas_Totales = 500,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Azitromicina_Mes = 2024-12,</Mes>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Ventas_Totales>Azitromicina_Ventas_Totales = 533,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cefuroxima Axetil_Mes = 2024-12,</Mes>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Ventas_Totales>Cefuroxima Axetil_Ventas_Totales = 395,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Cetirizina_Mes = 2024-12,</Mes>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Ventas_Totales>Cetirizina_Ventas_Totales = 438,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Claritromicina_Mes = 2024-12,</Mes>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Ventas_Totales>Claritromicina_Ventas_Totales = 539,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Doxiciclina_Mes = 2024-12,</Mes>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Ventas_Totales>Doxiciclina_Ventas_Totales = 324,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Ibuprofeno_Mes = 2024-12,</Mes>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Ventas_Totales>Ibuprofeno_Ventas_Totales = 1192,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Paracetamol_Mes = 2024-12,</Mes>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Ventas_Totales>Paracetamol_Ventas_Totales = 1447,</Ventas_Totales>
+    </w>
+    <w>
+<Mes>Salbutamol_Mes = 2024-12,</Mes>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Ventas_Totales>Salbutamol_Ventas_Totales = 363,</Ventas_Totales>
+    </w>
+  </sheet>
+  <sheet name="Stock">
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = ALDO UNION,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 19,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-10-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = APOTEX,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 21,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-06-17 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = ARISTO PHARMA,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 92,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2025-12-15 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = CINFA,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 9,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-01-25 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = MEDOCHEMIE,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 26,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2025-10-26 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = NORMON,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 33,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2025-12-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 3,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-09-19 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = SANOFI,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 130,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-12-12 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = STADA,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 12,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2025-10-05 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ambroxol_Medicamento = Ambroxol,</Medicamento>
+<Empresa>Ambroxol_Empresa = TEVA,</Empresa>
+<Stock_Total>Ambroxol_Stock_Total = 39,</Stock_Total>
+<Fecha_caducidad>Ambroxol_Fecha_caducidad = 2026-03-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = AUROBINDO,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 109,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2025-10-03 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = CINFA,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 21,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-11-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = GSK,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 12,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2027-01-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = NORMON,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 71,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-07-31 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = REIG JOFRE,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 43,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-05-02 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 72,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-08-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = TEVA,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 42,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2025-08-20 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = TOWA PHARMA,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 216,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2025-09-04 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = WALGREENS BOOTS AL,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 91,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-06-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Amoxicilina_Medicamento = Amoxicilina,</Medicamento>
+<Empresa>Amoxicilina_Empresa = ZYDUS CADILA,</Empresa>
+<Stock_Total>Amoxicilina_Stock_Total = 41,</Stock_Total>
+<Fecha_caducidad>Amoxicilina_Fecha_caducidad = 2026-09-27 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = AUROBINDO,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 67,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2027-01-09 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = CINFA,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 14,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-09-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = ETHYPHARM,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 2,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2027-01-26 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = KERN PHARMA,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 61,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-06-28 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = NORMON,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 51,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-07-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = PFIZER,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 7,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-09-19 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 67,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-12-12 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = STADA,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 93,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2025-10-05 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = TEVA,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 7,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2026-03-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Azitromicina_Medicamento = Azitromicina,</Medicamento>
+<Empresa>Azitromicina_Empresa = VIATRIS,</Empresa>
+<Stock_Total>Azitromicina_Stock_Total = 49,</Stock_Total>
+<Fecha_caducidad>Azitromicina_Fecha_caducidad = 2025-10-03 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = AUROBINDO,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 16,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-11-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = CINFA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 5,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2027-01-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = GRUPO TECNIMEDE,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 19,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-07-31 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = KERN PHARMA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 28,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-05-02 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = NORMON,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 16,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-08-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 27,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2025-08-20 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = STADA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 44,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2025-09-04 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = SUN PHARMA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 44,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-06-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = TEVA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 64,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-09-27 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cefuroxima Axetil_Medicamento = Cefuroxima Axetil,</Medicamento>
+<Empresa>Cefuroxima Axetil_Empresa = TOWA PHARMA,</Empresa>
+<Stock_Total>Cefuroxima Axetil_Stock_Total = 78,</Stock_Total>
+<Fecha_caducidad>Cefuroxima Axetil_Fecha_caducidad = 2026-05-12 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = CINFA,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 90,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2025-08-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = MENARINI,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 91,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2026-11-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = NORMON,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 96,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2026-06-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = TEVA,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 30,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2026-09-27 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = UCB,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 96,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2026-05-12 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Cetirizina_Medicamento = Cetirizina,</Medicamento>
+<Empresa>Cetirizina_Empresa = VIATRIS,</Empresa>
+<Stock_Total>Cetirizina_Stock_Total = 48,</Stock_Total>
+<Fecha_caducidad>Cetirizina_Fecha_caducidad = 2025-08-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = ALTER,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 19,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-11-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = AUROBINDO,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 10,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-09-27 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = CINFA,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 34,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-01-17 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = GRUPO TECNIMEDE,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 47,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-03-15 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = KERN PHARMA,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 57,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-09-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = NORMON,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 10,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-01-16 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 69,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2025-12-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = SUN PHARMA,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 3,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-11-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = TEVA,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 6,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2026-06-17 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Claritromicina_Medicamento = Claritromicina,</Medicamento>
+<Empresa>Claritromicina_Empresa = VIATRIS,</Empresa>
+<Stock_Total>Claritromicina_Stock_Total = 79,</Stock_Total>
+<Fecha_caducidad>Claritromicina_Fecha_caducidad = 2025-12-15 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = CANTABRIA,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 46,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-01-25 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = COMMERCIAL SOLVENT,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 86,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2025-10-26 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = GALDERMA,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 10,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2025-12-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = INVICTA FARMA,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 81,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-09-19 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = NORMON,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 4,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-05-04 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = PFIZER,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 47,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-08-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = PIERRE FABRE,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 5,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2025-11-03 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 49,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2025-09-16 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = SERRA PAMIES,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 34,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-11-10 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Doxiciclina_Medicamento = Doxiciclina,</Medicamento>
+<Empresa>Doxiciclina_Empresa = TEOFARMA,</Empresa>
+<Stock_Total>Doxiciclina_Stock_Total = 71,</Stock_Total>
+<Fecha_caducidad>Doxiciclina_Fecha_caducidad = 2026-06-19 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = CINFA,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 37,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2025-11-30 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = KERN PHARMA,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 99,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2026-10-18 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = LEVEL,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 260,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2027-01-08 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = MABO FARMA,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 42,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2026-10-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = NORMON,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 73,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2026-06-17 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = RECKITT BENCKISER,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 350,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2025-12-15 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = STADA,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 77,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2026-01-25 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = TEVA,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 74,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2025-10-26 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = VIATRIS,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 109,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2025-12-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Ibuprofeno_Medicamento = Ibuprofeno,</Medicamento>
+<Empresa>Ibuprofeno_Empresa = ZAMBON GROUP,</Empresa>
+<Stock_Total>Ibuprofeno_Stock_Total = 50,</Stock_Total>
+<Fecha_caducidad>Ibuprofeno_Fecha_caducidad = 2026-03-15 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = BRAUN-MELSUNGEN,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 336,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-09-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = CINFA,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 71,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-01-16 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = FERRER,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 114,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2025-12-21 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = KERN PHARMA,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 144,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-11-07 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = LEVEL,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 205,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2027-01-08 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = NORMON,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 90,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-10-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 14,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-06-17 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = STADA,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 28,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-11-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = TAISHO,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 113,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2027-01-23 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Paracetamol_Medicamento = Paracetamol,</Medicamento>
+<Empresa>Paracetamol_Empresa = TEVA,</Empresa>
+<Stock_Total>Paracetamol_Stock_Total = 441,</Stock_Total>
+<Fecha_caducidad>Paracetamol_Fecha_caducidad = 2026-07-31 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Empresa>Salbutamol_Empresa = ALDO UNION,</Empresa>
+<Stock_Total>Salbutamol_Stock_Total = 336,</Stock_Total>
+<Fecha_caducidad>Salbutamol_Fecha_caducidad = 2026-05-02 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Empresa>Salbutamol_Empresa = GSK,</Empresa>
+<Stock_Total>Salbutamol_Stock_Total = 342,</Stock_Total>
+<Fecha_caducidad>Salbutamol_Fecha_caducidad = 2026-08-22 00:00:00,</Fecha_caducidad>
+    </w>
+    <w>
+<Medicamento>Salbutamol_Medicamento = Salbutamol,</Medicamento>
+<Empresa>Salbutamol_Empresa = SANDOZ,</Empresa>
+<Stock_Total>Salbutamol_Stock_Total = 20,</Stock_Total>
+<Fecha_caducidad>Salbutamol_Fecha_caducidad = 2025-08-20 00:00:00,</Fecha_caducidad>
+    </w>
+  </sheet>
+</dic>
