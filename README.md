@@ -24,3 +24,6 @@ The chatbot is designed to provide personalized responses, adapting to the conte
 2. Edit the `credentials.yml` file with a valid API KEY:
    ```bash
    OPENAI_API_KEY: 'xxx'
+3. Navigate to the folder where the `app.py` file is stored and run:
+   ```bash
+   streamlit run app.py
