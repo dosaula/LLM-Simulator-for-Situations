@@ -27,7 +27,7 @@ The chatbot is designed to provide personalized responses, adapting to the conte
 5. Install the necessary libraries using the following command:
    ```bash
    pip install -r requirements.txt
-6. Edit the `credentials.yml` file with a valid API KEY:
+6. Navigate to the `config/local` folder and edit the `credentials.yml` file with a valid API KEY:
    ```bash
    OPENAI_API_KEY: 'xxx'
 7. Run the `app.py` file:
