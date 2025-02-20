@@ -678,5 +678,105 @@
             "platform": "Windows",
             "browser": "Unknown"
         }
+    },
+    {
+        "conversation_id": "78b9bf5a-35e9-472f-a948-6cbb6cc16faf",
+        "timestamp": "2025-02-20 19:51:10",
+        "rating": 3,
+        "comments": "",
+        "username": "dosaula1",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.0157172679901123,
+        "interaction_count": 3,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "7b1dd470-0731-46c4-a47a-9bde51ef5c1b",
+        "timestamp": "2025-02-20 20:04:56",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "comercial",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.8804848194122314,
+        "interaction_count": 1,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "6addc96a-0642-471a-9cbf-6e8e6a2b353a",
+        "timestamp": "2025-02-20 20:21:37",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "comercial",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.4371719360351562,
+        "interaction_count": 1,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "0902eaca-bab9-4629-b975-58f5ac5945b0",
+        "timestamp": "2025-02-20 20:39:26",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "comercial",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 2.890345811843872,
+        "interaction_count": 1,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
+    },
+    {
+        "conversation_id": "0902eaca-bab9-4629-b975-58f5ac5945b0",
+        "timestamp": "2025-02-20 20:40:19",
+        "rating": 3,
+        "comments": "",
+        "username": "Guest",
+        "role": "Farmaceutico agresivo",
+        "comb": {
+            "Capacity": "Undefined",
+            "Opportunity": "Undefined",
+            "Motivation": "Undefined"
+        },
+        "session_duration": 3.11415958404541,
+        "interaction_count": 1,
+        "documents_uploaded": true,
+        "browser_info": {
+            "platform": "Windows",
+            "browser": "Unknown"
+        }
     }
 ]

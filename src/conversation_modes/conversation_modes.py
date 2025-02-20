@@ -919,7 +919,7 @@ def simulate_roles():
                         agent, chroma_db, tool_xml = create_agents_crewai(
                             custom_role,
                             improved_objective,
-                            f"./chromadb_agents/vectordb_{custom_role.lower()}"
+                            f"./chromadb_agents_simulation/vectordb_{custom_role.lower()}"
                         )
 
                         # Store custom agent configuration
@@ -946,7 +946,7 @@ def simulate_roles():
                         agent, chroma_db, tool_xml = create_agents_crewai(
                             role,
                             goal,
-                            f"./chromadb_agents/vectordb_{role.lower()}"
+                            f"./chromadb_agents_simulation/vectordb_{role.lower()}"
                         )
 
                         # Store existing agent configuration
